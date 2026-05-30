@@ -1,124 +1,87 @@
-<div align="center">
+💫 About Me:
 
-# Hi 👋, I'm Harsh
+Hi 👋, I'm Harsh Patel
 
-### Frontend Developer | React Enthusiast | UI Builder
+🚀 Frontend Developer passionate about creating responsive and modern web applications.
 
-<p>
-Building responsive, modern, and user-friendly web applications with clean code and great user experiences.
-</p>
+💻 Skilled in React and JavaScript ecosystem.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Developer;JavaScript+Enthusiast;Always+Learning+New+Technologies" />
+🌱 Currently learning advanced React concepts and Full Stack Development.
 
-</div>
+⚡ Love building clean, user-friendly, and scalable web applications.
 
 ---
 
-## 🚀 About Me
+🌐 Socials:
 
-💻 Frontend Developer passionate about creating interactive web experiences
+""GitHub" (https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)" (https://github.com/harshpatel1011)
 
-🌱 Continuously improving my React and JavaScript skills
+<!-- Add your LinkedIn link below -->""LinkedIn" (https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)" (YOUR_LINKEDIN_URL)
 
-⚡ Love turning ideas into responsive and scalable applications
-
-🎯 Focused on writing clean, maintainable, and efficient code
+<!-- Add your email below -->""Email" (https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)" (mailto:YOUR_EMAIL)
 
 ---
 
-## 🛠️ Tech Stack
+💻 Tech Stack:
 
-### Frontend
+"HTML5" (https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+"CSS3" (https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### State Management
+"JavaScript" (https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<p>
-<img src="https://skillicons.dev/icons?i=redux" />
-</p>
+"React" (https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### Tools & Platforms
+"Redux Toolkit" (https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,vercel" />
-</p>
+"Git" (https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
+"GitHub" (https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 📈 GitHub Statistics
+"Postman" (https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<div align="center">
+"Vercel" (https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshpatel1011&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpatel1011&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+"VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🔥 GitHub Streak
+📊 GitHub Stats:
 
-<div align="center">
+https://github-readme-stats.vercel.app/api?username=harshpatel1011&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true
 
-<img src="https://streak-stats.demolab.com?user=harshpatel1011&theme=tokyonight&hide_border=true" />
+https://streak-stats.demolab.com/?user=harshpatel1011&theme=tokyonight&hide_border=false
 
-</div>
-
----
-
-## 🎯 Current Focus
-
-✔ Building React Projects
-
-✔ Redux Toolkit State Management
-
-✔ REST API Integration
-
-✔ Modern UI Development
-
-✔ Performance Optimization
+https://github-readme-stats.vercel.app/api/top-langs/?username=harshpatel1011&theme=tokyonight&hide_border=false&layout=compact
 
 ---
 
-## 📂 Featured Skills
+🏆 GitHub Trophies
 
-```javascript
-const harsh = {
-  role: "Frontend Developer",
-  technologies: [
-    "HTML",
-    "CSS",
-    "JavaScript (ES6+)",
-    "React",
-    "Redux Toolkit"
-  ],
-  tools: [
-    "VS Code",
-    "Git",
-    "GitHub",
-    "Postman",
-    "Vercel"
-  ],
-  passion: "Building modern web applications"
-};
-```
+https://github-profile-trophy.vercel.app/?username=harshpatel1011&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4
 
 ---
 
-## 🌟 Quote
+📈 Contribution Graph
 
-> "Great user experiences are built with clean code, creativity, and continuous learning."
+https://github-readme-activity-graph.vercel.app/graph?username=harshpatel1011&theme=tokyo-night
 
 ---
 
-<div align="center">
+✍️ Developer Quote
 
-### Thanks for visiting my profile! 🚀
+«"First, solve the problem. Then, write the code."»
 
-⭐ Don't forget to check out my repositories.
+---
+
+🔝 Top Contributed Repo
+
+https://github-contributor-stats.vercel.app/api?username=harshpatel1011&limit=5&theme=tokyonight&combine_all_yearly_contributions=true
+
+---
+
+<div align="center">🚀 Thanks for visiting my profile!
+
+⭐ Don't forget to star your favorite repositories.
 
 </div>
