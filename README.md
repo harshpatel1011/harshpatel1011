@@ -1,69 +1,124 @@
-Hi 👋, I'm Harsh Patel
+<div align="center">
 
-Frontend Developer | React Developer
+# Hi 👋, I'm Harsh
 
----
+### Frontend Developer | React Enthusiast | UI Builder
 
-🚀 About Me
+<p>
+Building responsive, modern, and user-friendly web applications with clean code and great user experiences.
+</p>
 
-- 💻 Frontend Developer passionate about modern web development
-- 🌱 Currently learning Full Stack Development
-- ⚛️ React Enthusiast
-- 🎯 Focused on building responsive and user-friendly applications
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Developer;JavaScript+Enthusiast;Always+Learning+New+Technologies" />
 
----
-
-🌐 Connect With Me
-
-- GitHub: https://github.com/harshpatel1011
-- LinkedIn: YOUR_LINKEDIN_URL
-- Email: YOUR_EMAIL
+</div>
 
 ---
 
-💻 Tech Stack
+## 🚀 About Me
 
-"HTML5" (https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-"React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-"Redux Toolkit" (https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+💻 Frontend Developer passionate about creating interactive web experiences
 
----
+🌱 Continuously improving my React and JavaScript skills
 
-🛠 Tools
+⚡ Love turning ideas into responsive and scalable applications
 
-"VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-"Postman" (https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-"Vercel" (https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+🎯 Focused on writing clean, maintainable, and efficient code
 
 ---
 
-📊 GitHub Stats
+## 🛠️ Tech Stack
 
-"Harsh's GitHub stats" (https://github-readme-stats.vercel.app/api?username=harshpatel1011&show_icons=true&theme=github_dark)
+### Frontend
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=harshpatel1011&layout=compact&theme=github_dark)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### State Management
+
+<p>
+<img src="https://skillicons.dev/icons?i=redux" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,vercel" />
+</p>
 
 ---
 
-📌 Current Focus
+## 📈 GitHub Statistics
 
-- React Projects
-- Redux Toolkit
-- API Integration
-- Frontend Development
-- Full Stack Learning
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshpatel1011&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpatel1011&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=harshpatel1011&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+✔ Building React Projects
+
+✔ Redux Toolkit State Management
+
+✔ REST API Integration
+
+✔ Modern UI Development
+
+✔ Performance Optimization
+
+---
+
+## 📂 Featured Skills
+
+```javascript
 const harsh = {
-  name: "Harsh Patel",
   role: "Frontend Developer",
-  skills: ["HTML", "CSS", "JavaScript", "React", "Redux Toolkit"],
-  tools: ["VS Code", "Git", "GitHub", "Postman", "Vercel"]
+  technologies: [
+    "HTML",
+    "CSS",
+    "JavaScript (ES6+)",
+    "React",
+    "Redux Toolkit"
+  ],
+  tools: [
+    "VS Code",
+    "Git",
+    "GitHub",
+    "Postman",
+    "Vercel"
+  ],
+  passion: "Building modern web applications"
 };
+```
 
-⭐ Thanks for visiting my profile!
+---
+
+## 🌟 Quote
+
+> "Great user experiences are built with clean code, creativity, and continuous learning."
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 🚀
+
+⭐ Don't forget to check out my repositories.
+
+</div>
