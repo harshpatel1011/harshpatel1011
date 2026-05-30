@@ -1,28 +1,50 @@
-💫 About Me:
-
 Hi 👋, I'm Harsh Patel
 
-🚀 Frontend Developer passionate about creating responsive and modern web applications.
+🚀 Frontend Developer | React Enthusiast | JavaScript Developer
 
-💻 Skilled in React and JavaScript ecosystem.
-
-🌱 Currently learning advanced React concepts and Full Stack Development.
-
-⚡ Love building clean, user-friendly, and scalable web applications.
+Passionate about building modern, responsive, and user-friendly web applications.
 
 ---
 
-🌐 Socials:
+🌐 Connect With Me
 
-""GitHub" (https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)" (https://github.com/harshpatel1011)
-
-<!-- Add your LinkedIn link below -->""LinkedIn" (https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)" (YOUR_LINKEDIN_URL)
-
-<!-- Add your email below -->""Email" (https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)" (mailto:YOUR_EMAIL)
+- GitHub: https://github.com/harshpatel1011
+- LinkedIn: YOUR_LINKEDIN_URL
+- Email: YOUR_EMAIL
 
 ---
 
-💻 Tech Stack:
+💫 About Me
+
+- 🔭 Currently working on React Projects
+- 🌱 Learning Full Stack Development
+- 💡 Interested in Modern Frontend Technologies
+- ⚡ Love creating responsive and interactive UIs
+- 🎯 Goal: Become a Professional Full Stack Developer
+
+---
+
+💻 Tech Stack
+
+Frontend
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Redux Toolkit
+
+Tools & Platforms
+
+- VS Code
+- Git
+- GitHub
+- Postman
+- Vercel
+
+---
+
+🛠 Tech Badges
 
 "HTML5" (https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -46,42 +68,58 @@ Hi 👋, I'm Harsh Patel
 
 ---
 
-📊 GitHub Stats:
+📊 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=harshpatel1011&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true
+"Stats" (https://github-readme-stats.vercel.app/api?username=harshpatel1011&show_icons=true&theme=tokyonight)
 
-https://streak-stats.demolab.com/?user=harshpatel1011&theme=tokyonight&hide_border=false
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=harshpatel1011&layout=compact&theme=tokyonight)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=harshpatel1011&theme=tokyonight&hide_border=false&layout=compact
+"Streak" (https://streak-stats.demolab.com?user=harshpatel1011&theme=tokyonight)
 
 ---
 
 🏆 GitHub Trophies
 
-https://github-profile-trophy.vercel.app/?username=harshpatel1011&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4
+"Trophies" (https://github-profile-trophy.vercel.app/?username=harshpatel1011&theme=tokyonight)
 
 ---
 
 📈 Contribution Graph
 
-https://github-readme-activity-graph.vercel.app/graph?username=harshpatel1011&theme=tokyo-night
+"Graph" (https://github-readme-activity-graph.vercel.app/graph?username=harshpatel1011&theme=tokyo-night)
 
 ---
 
-✍️ Developer Quote
+🚀 Featured Skills
 
-«"First, solve the problem. Then, write the code."»
+const harsh = {
+  role: "Frontend Developer",
+  technologies: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Redux Toolkit"
+  ],
+  tools: [
+    "VS Code",
+    "Git",
+    "GitHub",
+    "Postman",
+    "Vercel"
+  ]
+};
 
 ---
 
-🔝 Top Contributed Repo
+✨ Developer Motto
 
-https://github-contributor-stats.vercel.app/api?username=harshpatel1011&limit=5&theme=tokyonight&combine_all_yearly_contributions=true
+«Learn → Build → Improve → Repeat»
 
 ---
 
-<div align="center">🚀 Thanks for visiting my profile!
+<div align="center">Thanks for visiting my profile! 🚀
 
-⭐ Don't forget to star your favorite repositories.
+⭐ If you like my projects, consider giving them a star.
 
 </div>
