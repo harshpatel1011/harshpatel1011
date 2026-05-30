@@ -1,49 +1,124 @@
-# Hi there, I'm Harsh 👋
+<div align="center">
 
-## 🚀 Frontend Developer
+# Hi 👋, I'm Harsh
 
-Passionate about building modern, responsive, and user-friendly web applications using the latest frontend technologies.
+### Frontend Developer | React Enthusiast | UI Builder
 
-### 💻 Technologies
+<p>
+Building responsive, modern, and user-friendly web applications with clean code and great user experiences.
+</p>
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- Redux Toolkit
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Developer;JavaScript+Enthusiast;Always+Learning+New+Technologies" />
 
-### 🛠️ Tools & Platforms
+</div>
 
-- VS Code
-- Git
-- GitHub
-- Postman
-- Vercel
+---
 
-### 🌱 Currently Learning
+## 🚀 About Me
 
-- Advanced React Concepts
-- State Management
-- Performance Optimization
-- Full Stack Development
+💻 Frontend Developer passionate about creating interactive web experiences
 
-### 📂 What I Build
+🌱 Continuously improving my React and JavaScript skills
 
-- Responsive Websites
-- React Applications
-- Dynamic User Interfaces
-- API Integrated Projects
+⚡ Love turning ideas into responsive and scalable applications
 
-### 📊 GitHub Stats
+🎯 Focused on writing clean, maintainable, and efficient code
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshpatel1011&show_icons=true)
+---
 
-### 🔥 Most Used Languages
+## 🛠️ Tech Stack
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshpatel1011&layout=compact)
+### Frontend
 
-### 🤝 Connect With Me
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
-Feel free to explore my repositories and collaborate on exciting projects!
+### State Management
 
-⭐ If you like my work, don't forget to star my repositories.
+<p>
+<img src="https://skillicons.dev/icons?i=redux" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,vercel" />
+</p>
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshpatel1011&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpatel1011&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=harshpatel1011&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+✔ Building React Projects
+
+✔ Redux Toolkit State Management
+
+✔ REST API Integration
+
+✔ Modern UI Development
+
+✔ Performance Optimization
+
+---
+
+## 📂 Featured Skills
+
+```javascript
+const harsh = {
+  role: "Frontend Developer",
+  technologies: [
+    "HTML",
+    "CSS",
+    "JavaScript (ES6+)",
+    "React",
+    "Redux Toolkit"
+  ],
+  tools: [
+    "VS Code",
+    "Git",
+    "GitHub",
+    "Postman",
+    "Vercel"
+  ],
+  passion: "Building modern web applications"
+};
+```
+
+---
+
+## 🌟 Quote
+
+> "Great user experiences are built with clean code, creativity, and continuous learning."
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 🚀
+
+⭐ Don't forget to check out my repositories.
+
+</div>
