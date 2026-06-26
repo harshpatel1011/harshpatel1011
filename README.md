@@ -76,11 +76,8 @@
 | Project | Description | Stack |
 |---|---|---|
 | [HP-Terminal-Portfolio](https://github.com/harshpatel1011/HP-Terminal-Portfolio) | A terminal-style developer portfolio | JavaScript |
-| [Creative-Hackathon-Enquiry-Portal](https://github.com/harshpatel1011/Creative-Hackathon-Enquiry-Portal) | Enquiry portal built for a hackathon | HTML |
-| [ReactJS-09-The-Rick-and-Morty-API](https://github.com/harshpatel1011/ReactJS-09-The-Rick-and-Morty-API) | React app consuming the Rick and Morty API | JavaScript |
-| [ReactJS-07-Tic-Tac-Toe](https://github.com/harshpatel1011/ReactJS-07-Tic-Tac-Toe) | Classic Tic-Tac-Toe game built with React | CSS |
-| [ReactJS-09-To-Do-List](https://github.com/harshpatel1011/ReactJS-09-To-Do-List) | A simple, functional to-do list app | CSS |
-| [AI-Aura](https://github.com/harshpatel1011/AI-Aura) | An AI-powered project exploring modern web tech | JavaScript |
+| [Skill-Exchange-Platform](https://github.com/harshpatel1011/Skill-Exchange-Platform) | A platform for exchanging skills, built with React & Vite | JavaScript |
+| [Creative-Hackathon-Enquiry-Portal](https://github.com/harshpatel1011/Creative-Hackathon-Enquiry-Portal) | Enquiry portal built for a hackathon | Python |
 
 ---
 
