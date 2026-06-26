@@ -109,36 +109,49 @@
 
 ```js
 const harsh = {
+  name: "Harsh Patel",
   role: "Frontend Developer",
-  languages: [
-    "JavaScript (ES6+)",
-    "Python",
-    "C",
-    "C++",
-    "HTML",
-    "CSS",
+
+  skills: {
+    languages: [
+      "JavaScript (ES6+)",
+      "Python",
+      "C",
+      "C++",
+      "HTML5",
+      "CSS3",
+    ],
+
+    frontend: [
+      "React",
+      "Vite",
+      "Bootstrap",
+    ],
+
+    backend: [
+      "Django",
+      "MySQL",
+      "REST APIs",
+      "Axios",
+      "JSON",
+    ],
+
+    tools: [
+      "VS Code",
+      "Git",
+      "GitHub",
+      "NPM",
+      "Postman",
+      "Vercel",
+      "Render",
+    ],
+  },
+
+  currentlyLearning: [
+    "Full Stack Development",
   ],
-  frontend: [
-    "Bootstrap",
-    "React",
-    "Vite",
-  ],
-  backend: [
-    "Django",
-    "MySQL",
-    "Axios",
-    "JSON",
-  ],
-  tools: [
-    "VS Code",
-    "Git",
-    "GitHub",
-    "NPM",
-    "Postman",
-    "Vercel",
-    "Render",
-  ],
-  passion: "Building modern web applications",
+
+  passion: "Building modern, responsive, and scalable web applications.",
 };
 ```
 
