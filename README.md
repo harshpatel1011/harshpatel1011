@@ -114,14 +114,14 @@
 const harsh = {
   role: "Frontend Developer",
   languages: [
+    "JavaScript (ES6+)",
     "Python",
     "C",
     "C++",
-    "JavaScript (ES6+)",
-  ],
-  frontend: [
     "HTML",
     "CSS",
+  ],
+  frontend: [
     "Bootstrap",
     "React",
     "Vite",
