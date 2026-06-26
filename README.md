@@ -148,7 +148,7 @@ const harsh = {
   },
 
   currentlyLearning: [
-    "Full Stack Development",
+    "Full Stack Web Development",
   ],
 
   passion: "Building modern, responsive, and scalable web applications.",
