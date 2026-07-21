@@ -84,7 +84,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harshpatel1011&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=harshpatel1011&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpatel1011&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
