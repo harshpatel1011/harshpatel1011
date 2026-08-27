@@ -11,14 +11,13 @@
 
 ---
 
-### 🚀 About Me<p align="right"><a href="https://harshpatel11.vercel.app"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge" alt="Portfolio" /></a></p>
+### 🚀 About Me
  
 - 💻 Full-Stack Developer passionate about creating interactive web experiences
 - 🎓 Completed Full Stack Web Development with Django Backend
 - ⚡ Love turning ideas into responsive, scalable applications
 - 🎯 Focused on writing clean, maintainable, and efficient code
 - 📫 Open to collaborating on full-stack projects
-
 <p><a href="https://harshpatel11.vercel.app"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge" alt="Portfolio" /></a></p>
 
 ---
