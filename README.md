@@ -18,7 +18,7 @@
 - ⚡ Love turning ideas into responsive, scalable applications
 - 🎯 Focused on writing clean, maintainable, and efficient code
 - 📫 Open to collaborating on full-stack projects
-<p><a href="https://harshpatel11.vercel.app"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge" alt="Portfolio" /></a></p>
+<p align="center"><a href="https://harshpatel11.vercel.app"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge" alt="Portfolio" /></a></p>
 
 ---
 
