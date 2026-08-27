@@ -22,6 +22,7 @@
 <p>
   <a href="https://harshpatel11.vercel.app"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge" alt="Portfolio" /></a>
 </p>
+
 ---
 
 ### 🛠️ Tech Stack
