@@ -18,6 +18,10 @@
 - ⚡ Love turning ideas into responsive, scalable applications
 - 🎯 Focused on writing clean, maintainable, and efficient code
 - 📫 Open to collaborating on full-stack projects
+
+<p align="center">
+  <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-FF8243?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
 ---
 
 ### 🛠️ Tech Stack
