@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Harsh 👋</h1>
+<h1 align="center">Hi there, I'm Harsh Patel 👋</h1>
 <h3 align="center">Full-Stack Developer | React & Django | Building End-to-End Web Apps</h3>
 
 <p align="center">
